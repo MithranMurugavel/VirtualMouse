@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @MithranMurugavel
-- 👀 I’m Intrested in New Technologies, innovation
-- 💞️ I’m looking to collaborate who are enthusiastic learning new technologies
-- 📫 Reach me @mithran7741@gmail.com
+This project is based controlling the 🖱 mouse movement using hand ☝ gesture
+Developed by using python🐍, opencv, mediapipe and some other
+presented at Nandha Innovation day '24 at Nandha Institution
