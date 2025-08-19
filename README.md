@@ -1,3 +1,3 @@
-This project is based controlling the 🖱 mouse movement using hand ☝ gesture
-Developed by using python🐍, opencv, mediapipe and some other
-presented at Nandha Innovation day '24 at Nandha Institution
+This project is based on controlling the 🖱 mouse movement using a hand ☝ gesture
+Developed by using Python 🐍, OpenCV, Mediapipe and some other
+presented at Nandha Innovation Day '24 at Nandha Institution
